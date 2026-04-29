@@ -1,0 +1,62 @@
+================================================================================
+SHAP ANALYSIS REPORT - TRACK 1 & TRACK 2
+================================================================================
+
+1. TRACK 1 (Dynamic features only)
+----------------------------------------
+Features analyzed: 169
+Samples used for SHAP: 1000
+Expected value (base): 148.7369
+
+Group importance:
+  G0: 50.1% (88 features)
+  G1: 32.6% (44 features)
+  G2: 11.4% (12 features)
+  G5: 3.9% (3 features)
+  G4: 1.1% (2 features)
+  G3: 1.0% (2 features)
+
+Top 5 features:
+  1. NDVI_season_max: 5.9821
+  2. NDVI_8: 5.7252
+  3. GPP_peak_mean: 5.4008
+  4. EVI_season_max: 5.1772
+  5. EVI_3: 4.2287
+
+
+2. TRACK 2 (Dynamic + Static features)
+----------------------------------------
+Features analyzed: 184
+Samples used for SHAP: 1000
+Expected value (base): 148.7528
+
+Group importance:
+  G0: 40.3% (88 features)
+  G1: 30.0% (44 features)
+  Gs: 16.8% (13 features)
+  G2: 9.3% (12 features)
+  G5: 2.6% (3 features)
+  G4: 1.0% (2 features)
+  G3: 0.0% (2 features)
+
+Top 5 features:
+  1. NDVI_season_max: 8.9040
+  2. NDVI_8: 6.5344
+  3. year: 5.7438
+  4. X: 5.5781
+  5. NDVI_7: 4.3770
+
+
+3. KEY INSIGHTS
+----------------------------------------
+• Static features (Gs) contribute 16.8% to model predictions
+  Number of static features: 13
+
+• Feature count comparison:
+  Track 1: 169 features
+  Track 2: 184 features
+  Additional features in Track 2: 15
+
+================================================================================
+END OF REPORT
+================================================================================

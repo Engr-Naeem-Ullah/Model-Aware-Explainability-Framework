@@ -1,0 +1,14 @@
+track,group,importance,n_features
+Track 1 (Dynamic only),G0,50.05,88
+Track 1 (Dynamic only),G1,32.57,44
+Track 1 (Dynamic only),G2,11.44,12
+Track 1 (Dynamic only),G5,3.85,3
+Track 1 (Dynamic only),G4,1.08,2
+Track 1 (Dynamic only),G3,1.01,2
+Track 2 (Dynamic + Static),G0,40.33,88
+Track 2 (Dynamic + Static),G1,29.97,44
+Track 2 (Dynamic + Static),Gs,16.80,13
+Track 2 (Dynamic + Static),G2,9.26,12
+Track 2 (Dynamic + Static),G5,2.56,3
+Track 2 (Dynamic + Static),G4,1.03,2
+Track 2 (Dynamic + Static),G3,0.05,2

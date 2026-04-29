@@ -1,0 +1,21 @@
+{
+    "track": "track1",
+    "model_path": "E:/Abroad period research/New idea for 2026/Corn Yield Estimation/final_models_for_shap/XGBoost_model.pkl",
+    "n_features_analyzed": 169,
+    "n_samples_shap": 1000,
+    "expected_value": 148.7369384765625,
+    "shap_values_shape": [
+        1000,
+        169
+    ],
+    "feature_groups": {
+        "G0": 88,
+        "G1": 44,
+        "G2": 12,
+        "G3": 2,
+        "G4": 2,
+        "G5": 3,
+        "Gs": 14
+    },
+    "timestamp": "2025-12-25 17:51:44"
+}
