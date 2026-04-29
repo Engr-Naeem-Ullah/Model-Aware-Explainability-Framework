@@ -1,0 +1,11 @@
+rule_idx,success_rate,success_count,total_tested,predicted_change,n_features_changed,impact_type
+1,1.0,10,10,decrease,1,negative
+2,0.9,9,10,decrease,2,negative
+3,0.9,9,10,decrease,2,negative
+4,1.0,10,10,decrease,1,negative
+5,1.0,10,10,decrease,2,negative
+6,0.5,5,10,decrease,2,negative
+7,0.7,7,10,decrease,2,negative
+8,1.0,10,10,decrease,1,negative
+9,1.0,10,10,decrease,1,negative
+10,0.1,1,10,decrease,2,negative

@@ -1,0 +1,2 @@
+fidelity_tests,counterfactual_tests,precision_overall_precision,precision_avg_rule_precision,precision_avg_coverage,precision_total_matched,precision_total_correct,precision_n_rules_with_matches,avg_cohens_d,avg_cliffs_d,significant_rules,avg_counterfactual_success
+50,10,0.768953462967009,0.75,0.2746200000000001,27462,21117,100,1.8297479284364768,0.6984002848028129,50,0.8099999999999999
